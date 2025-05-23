@@ -12,7 +12,8 @@ public class PlayerCondition : MonoBehaviour
 
     private void Update()
     {
-       
+        if (uiCondition == null || stamina == null || health == null) return;
+
         stamina.Add(stamina.passiveValue * Time.deltaTime);
 
         if (health.curValue < 0f)

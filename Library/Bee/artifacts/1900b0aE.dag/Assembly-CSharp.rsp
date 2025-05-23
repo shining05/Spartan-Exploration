@@ -364,6 +364,7 @@
 "Assets/Scripts/Player/PlayerCondition.cs"
 "Assets/Scripts/Player/PlayerController.cs"
 "Assets/Scripts/ScriptableObject/Item Data.cs"
+"Assets/Scripts/trampoline.cs"
 "Assets/Scripts/UI/Condition.cs"
 "Assets/Scripts/UI/ItemSlot.cs"
 "Assets/Scripts/UI/UICondition.cs"
